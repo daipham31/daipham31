@@ -1,4 +1,4 @@
 # Ahihi
 
 
-<img id="p1" width="90%" height="100%" src="" />
+<img src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" />
